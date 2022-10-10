@@ -1,5 +1,5 @@
 # CrudManut - Projeto GUI Python básico.
-Sistema de dados de ordem de serviços de manutenção - tkinter, sqlite3, reportlab, pyplotlib, dash.
+Sistema de dados de ordem de serviços de manutenção - tkinter, sqlite3, reportlab, matplotylib, dash.
 
 
 1 - Criar uma interface grafica entre o usuario e a colheita dos dados.
