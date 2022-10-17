@@ -1,4 +1,4 @@
-# CrudManut - Projeto GUI Python básico.
+# CrudManut - Projeto GUI Python básico - Project under development.
 Sistema de dados de ordem de serviços de manutenção - tkinter, sqlite3, reportlab, matplotylib, dash.
 
 
