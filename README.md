@@ -10,7 +10,11 @@ Sistema de dados de ordem de serviços de manutenção - tkinter, sqlite3, repor
 2.1 - Usar os bancos de dados como SQL, uma planilha em excel, Jason, clound.
 2.2 -No fluxo de dados criar um CRUD, onde pela interface grafica eu consiga acessar cadastros, incluir um novo cadastro, alterar descrições, gerar relatórios em pdf de cada linha de cadstro, extrair do banco de dados e exportar em uma planilha simples do excel para o usuario, pesquisar pelo codigo e mostrar na interface grafica, gerar um dashboar online em HTML interativo ou via power bi ou tableu.
 
-3 - Detalhes da interface grafica ... HOLD.
+3 - Detalhes da interface grafica com botôes, labels, ihm do banco de dados.
+
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="center" height="800" alt="coding-time" src="interfaceinit.png">
 
 
 
